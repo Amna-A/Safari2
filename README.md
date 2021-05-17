@@ -1,6 +1,8 @@
 # Safari
 Safari Rush Hour, a 7 x 7 grid game (Escape Rover "x" that moves in all directions)
 
+![safari](https://www.igroved.ru/db/games/thumbnails/55/255/igroved_safari-rush-hour_04.jpg)
+
 [Safari Rush Hour](https://www.thinkfun.com/products/safari-rush-hour/) is a variation on the popular Rush Hour game from Binary Arts. The object is to move your car through a tangle of obstacles to reach the exit.
 
 ## Rules
