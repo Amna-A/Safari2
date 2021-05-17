@@ -23,6 +23,7 @@ The first line indicates a problem ("P") and the name of the problem ("J1"). The
 - 2x2 pieces: termite mounds (u,v) and safari rover (x)
 - 3x1 pieces: elephant (o, q, s) and rhino (p, r)
 - 2x1 pieces: lion (a, f), lioness (d, g, j), impala (b, h, i, k) and zebra (c, e). 
+
 The actual names do not matter; all that is important is the shape of each of the pieces and the way that they move. The "!" indicates the exit (the exit position is fixed and does not change from puzzle to puzzle).
 
 #### Notes on input
