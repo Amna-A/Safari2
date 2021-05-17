@@ -19,7 +19,11 @@ ob..ee.
 .bppp..
 ```
 
-The first line indicates a problem ("P") and the name of the problem ("J1"). The problems are all numbered, and the first letter indicates the difficulty of the problem: "J" is junior, "B" is beginner, "I" is intermediate, "A" is advanced, and "E" is expert. In the puzzle specification, the letters stand for the playing pieces: 2x2 pieces: termite mounds (u,v) and safari rover (x); 3x1 pieces: elephant (o, q, s) and rhino (p, r); 2x1 pieces: lion (a, f), lioness (d, g, j), impala (b, h, i, k) and zebra (c, e). The actual names do not matter; all that is important is the shape of each of the pieces and the way that they move. The "!" indicates the exit (the exit position is fixed and does not change from puzzle to puzzle).
+The first line indicates a problem ("P") and the name of the problem ("J1"). The problems are all numbered, and the first letter indicates the difficulty of the problem: "J" is junior, "B" is beginner, "I" is intermediate, "A" is advanced, and "E" is expert. In the puzzle specification, the letters stand for the playing pieces: 
+- 2x2 pieces: termite mounds (u,v) and safari rover (x)
+- 3x1 pieces: elephant (o, q, s) and rhino (p, r)
+- 2x1 pieces: lion (a, f), lioness (d, g, j), impala (b, h, i, k) and zebra (c, e). 
+The actual names do not matter; all that is important is the shape of each of the pieces and the way that they move. The "!" indicates the exit (the exit position is fixed and does not change from puzzle to puzzle).
 
 #### Notes on input
 
