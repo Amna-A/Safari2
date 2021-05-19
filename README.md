@@ -32,6 +32,8 @@ The actual names do not matter; all that is important is the shape of each of th
 
  The game can take a board from stdinput or a file containing a number of different problem boards in the following format:
  >> ./safari -t 200 < mytest-data.data
+ 
+"t" refers to time, i'm using real time in seconds here (find more on this in Safari.cpp)
 
 ## Solution:
 
