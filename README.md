@@ -46,6 +46,6 @@ where [id] is the problem id, [t] is the wallclock time in seconds your program 
 
 ![Safari Demo](Demo/safari-test0.gif)
 
-### NOTE: 
+## NOTE: 
 
-I'm still working on better ways to take fewset number of steps possible
+For those who have already cloned this repo, I'm still working on better ways to take fewset number of steps possible and will not be updating soon. feel free to contact me shall you need any further discription of my work.
